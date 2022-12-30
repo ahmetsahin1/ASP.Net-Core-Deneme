@@ -1,0 +1,12 @@
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\bin\Debug\net5.0\CarPark.Core.deps.json
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\bin\Debug\net5.0\CarPark.Core.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\bin\Debug\net5.0\ref\CarPark.Core.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\bin\Debug\net5.0\CarPark.Core.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\CarPark.Core.csproj.AssemblyReference.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\CarPark.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\CarPark.Core.AssemblyInfoInputs.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\CarPark.Core.AssemblyInfo.cs
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\CarPark.Core.csproj.CoreCompileInputs.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\CarPark.Core.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\ref\CarPark.Core.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Core\obj\Debug\net5.0\CarPark.Core.pdb

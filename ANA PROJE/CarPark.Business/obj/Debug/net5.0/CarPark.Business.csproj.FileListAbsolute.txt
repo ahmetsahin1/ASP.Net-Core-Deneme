@@ -1,0 +1,63 @@
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Business.deps.json
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Business.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\ref\CarPark.Business.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Business.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Core.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.DataAccess.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Entities.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.DataAccess.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Entities.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Core.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.AssemblyReference.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.AssemblyInfoInputs.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.AssemblyInfo.cs
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.CoreCompileInputs.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.CopyComplete
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\ref\CarPark.Business.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\obj\Debug\net5.0\CarPark.Business.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Models.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Business\bin\Debug\net5.0\CarPark.Models.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Business.deps.json
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\ref\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Business.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Core.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.DataAccess.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Entities.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Models.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.DataAccess.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Entities.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Models.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\bin\Debug\net5.0\CarPark.Core.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.AssemblyReference.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.AssemblyInfoInputs.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.AssemblyInfo.cs
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.CoreCompileInputs.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.CopyComplete
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\ref\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Business.deps.json
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\ref\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Business.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Core.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.DataAccess.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Entities.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Models.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.DataAccess.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Entities.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Models.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\bin\Debug\net5.0\CarPark.Core.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.AssemblyReference.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.AssemblyInfoInputs.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.AssemblyInfo.cs
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.CoreCompileInputs.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.csproj.CopyComplete
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\ref\CarPark.Business.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Business\obj\Debug\net5.0\CarPark.Business.pdb

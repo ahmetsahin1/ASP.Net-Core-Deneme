@@ -1,0 +1,30 @@
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\bin\Debug\net5.0\CarPark.Models.deps.json
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\bin\Debug\net5.0\CarPark.Models.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\bin\Debug\net5.0\ref\CarPark.Models.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\bin\Debug\net5.0\CarPark.Models.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.csproj.AssemblyReference.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.AssemblyInfoInputs.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.AssemblyInfo.cs
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.csproj.CoreCompileInputs.cache
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\ref\CarPark.Models.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\bin\Debug\net5.0\CarPark.Entities.dll
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\bin\Debug\net5.0\CarPark.Entities.pdb
+C:\Users\monster notebook\source\repos\CarPark\CarPark.Models\obj\Debug\net5.0\CarPark.Models.csproj.CopyComplete
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\bin\Debug\net5.0\CarPark.Models.deps.json
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\bin\Debug\net5.0\CarPark.Models.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\bin\Debug\net5.0\ref\CarPark.Models.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\bin\Debug\net5.0\CarPark.Models.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\bin\Debug\net5.0\CarPark.Entities.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\bin\Debug\net5.0\CarPark.Entities.pdb
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.csproj.AssemblyReference.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.AssemblyInfoInputs.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.AssemblyInfo.cs
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.csproj.CoreCompileInputs.cache
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.csproj.CopyComplete
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\ref\CarPark.Models.dll
+C:\Users\monster notebook\Desktop\projeee\SON hali (rol atamda sıkıntı var) - Kopya3(kullanılmadı)\CarPark.Models\obj\Debug\net5.0\CarPark.Models.pdb
